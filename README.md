@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Nombre de la app]
 
 **Comercio:** [nombre y tipo de comercio, real o inventado]
@@ -54,3 +55,7 @@ flutter run
 ## Declaración del uso de IA
 
 [Indicad si habéis usado alguna herramienta de IA, para qué y en qué partes. Si no, escribid «No se ha usado IA».]
+=======
+# trabajoPMDMGrupo04
+Trabajo Programación móviles y dispositivos multimedia
+>>>>>>> c2be023763ee02402c2957ecbc070ec5024509bf
