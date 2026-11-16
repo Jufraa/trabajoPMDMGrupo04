@@ -12,7 +12,7 @@ class ComercioApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mi comercio',
+      title: 'Frutería de la huerta de águilas',
       theme: ThemeData(colorScheme: ColorScheme.fromSeed(seedColor: Colors.brown)),
       home: const CatalogoScreen(),
     );
